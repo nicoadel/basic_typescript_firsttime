@@ -1,0 +1,168 @@
+var Vehicles = [{
+        "type": "Car",
+        "ps": 869,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 12376123,
+        "img" : "https://png.pngtree.com/element_pic/16/06/03/00575065c3557f1.jpg",
+        "reg_date" : "21.03.2015"
+
+    },
+    {
+        "type": "Motorcycle",
+        "ps": 923,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 4343243,
+        "img" : "https://png.pngtree.com/element_pic/17/07/19/c2ae93e7611b6158d06d37b8e8719c93.jpg",
+        "cycle_type":"idk"
+    },
+    {
+        "type": "Bus",
+        "ps": 239,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 4543623,
+        "img" : "https://icon2.kisspng.com/20171220/xpq/bus-png-image-5a3b17ec9ce4d3.6987200415138221886427.jpg",
+        "seats":23423
+    },
+    {
+        "type": "LKW",
+        "ps": 549,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 23434523,
+        "img" : "https://cdn.pixabay.com/photo/2014/04/03/10/44/truck-311298_960_720.png",
+        "weight": 2423432,
+    },
+    {
+        "type": "Car",
+        "ps": 10345,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 12315423,
+        "img" : "https://png.pngtree.com/element_pic/16/06/03/00575065c3557f1.jpg",
+        "reg_date" : "21.03.2015"
+
+    },
+    {
+        "type": "Motorcycle",
+        "ps": 9,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 4324233,
+        "img" : "https://png.pngtree.com/element_pic/17/07/19/c2ae93e7611b6158d06d37b8e8719c93.jpg",
+        "cycle_type":"idk"
+    },
+    {
+        "type": "Bus",
+        "ps": 954,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 4564323,
+        "img" : "https://icon2.kisspng.com/20171220/xpq/bus-png-image-5a3b17ec9ce4d3.6987200415138221886427.jpg",
+        "seats":23423
+    },
+    {
+        "type": "LKW",
+        "ps": 954,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 23452323,
+        "img" : "https://cdn.pixabay.com/photo/2014/04/03/10/44/truck-311298_960_720.png",
+        "weight": 2424334,
+    },
+    {
+        "type": "Car",
+        "ps": 1123,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 12312763,
+        "img" : "https://png.pngtree.com/element_pic/16/06/03/00575065c3557f1.jpg",
+        "reg_date" : "21.03.2015"
+
+    },
+    {
+        "type": "Motorcycle",
+        "ps": 9234,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 434243,
+        "img" : "https://png.pngtree.com/element_pic/17/07/19/c2ae93e7611b6158d06d37b8e8719c93.jpg",
+        "cycle_type":"idk"
+    },
+    {
+        "type": "Bus",
+        "ps": 923,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 4562653,
+        "img" : "https://icon2.kisspng.com/20171220/xpq/bus-png-image-5a3b17ec9ce4d3.6987200415138221886427.jpg",
+        "seats":23344
+    },
+    {
+        "type": "LKW",
+        "ps": 954,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 2334523,
+        "img" : "https://cdn.pixabay.com/photo/2014/04/03/10/44/truck-311298_960_720.png",
+        "weight": 244234,
+    },
+    {
+        "type": "Car",
+        "ps": 1342,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 12763123,
+        "img" : "https://png.pngtree.com/element_pic/16/06/03/00575065c3557f1.jpg",
+        "reg_date" : "21.03.2015"
+
+    },
+    {
+        "type": "Motorcycle",
+        "ps": 549,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 23443243,
+        "img" : "https://png.pngtree.com/element_pic/17/07/19/c2ae93e7611b6158d06d37b8e8719c93.jpg",
+        "cycle_type":"idk"
+    },
+    {
+        "type": "Bus",
+        "ps": 3459,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 4545623,
+        "img" : "https://icon2.kisspng.com/20171220/xpq/bus-png-image-5a3b17ec9ce4d3.6987200415138221886427.jpg",
+        "seats":23234
+    },
+    {
+        "type": "LKW",
+        "ps": 129,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 234234523,
+        "img" : "https://cdn.pixabay.com/photo/2014/04/03/10/44/truck-311298_960_720.png",
+        "weight": 24234,
+    },
+    {
+        "type": "Car",
+        "ps": 13234    ,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 12354123,
+        "img" : "https://png.pngtree.com/element_pic/16/06/03/00575065c3557f1.jpg",
+        "reg_date" : "21.03.2015"
+
+    },
+    {
+        "type": "Motorcycle",
+        "ps": 3469,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 43264343,
+        "img" : "https://png.pngtree.com/element_pic/17/07/19/c2ae93e7611b6158d06d37b8e8719c93.jpg",
+        "cycle_type":"idk"
+    },
+    {
+        "type": "Bus",
+        "ps": 129,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 4325623,
+        "img" : "https://icon2.kisspng.com/20171220/xpq/bus-png-image-5a3b17ec9ce4d3.6987200415138221886427.jpg",
+        "seats":234
+    },
+    {
+        "type": "LKW",
+        "ps": 965,
+        "buildyear" :"12.12.1996",
+        "distance_traveled": 23452343,
+        "img" : "https://cdn.pixabay.com/photo/2014/04/03/10/44/truck-311298_960_720.png",
+        "weight": 2426434,
+    },
+    
+
+]
